@@ -8,10 +8,10 @@ The application provides an introduction to Motion in a Uniformly Accelerated St
 ## How to Use:
 It was developed in NetBeans, utilizing dynamic libraries for its construction as well as local data input.
 
-## Contributing:
-The contribution lies in this application's ability to assist students with dynamic calculations related to time, velocity, and distance, enabling them to solve these problems more quickly.
+### Contributions
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## About Me
+### About Me
 You can find more of my projects on GitHub.
 
-Thank you for checking out my project!
+I'm Aron and thank you for checking out my project!
