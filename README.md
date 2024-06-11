@@ -8,8 +8,8 @@ The application provides an introduction to Motion in a Uniformly Accelerated St
 ## How to Use:
 It was developed in NetBeans, utilizing dynamic libraries for its construction as well as local data input.
 
-### Contributions
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+> [!IMPORTANT]
+> Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ### About Me
 You can find more of my projects on GitHub.
