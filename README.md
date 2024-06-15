@@ -4,9 +4,12 @@ Welcome to the "Calculations in Motion" repository! This project offers a compre
 
 ## 🌟Features:
 
+<img src="https://i.giphy.com/d4blalI6x2oc4xAA.webp" align = "right" width="300">
+
 - Introduction to MRUV: Gain insights into the fundamental equations and essential concepts of Motion in a Uniformly Accelerated Straight Line.
 - Pursuit Time: Learn how to calculate the duration required for a pursuing object to catch up to a target object.
 - Encounter Time: Discover how to determine when two objects moving towards each other will meet.
+
 
 ## 🚀Getting Started
 ### Prerequisites 📋
